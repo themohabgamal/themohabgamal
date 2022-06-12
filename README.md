@@ -22,8 +22,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themohabgamal&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themohabgamal&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=themohabgamal&theme=tokyonight&utcOffset=8)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
