@@ -30,7 +30,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://wa.link/uajh4p"><img src=""/></a>
+
 
 <a href="mailto:muhabgamalx2@gamil.com"><img src="https://img.shields.io/badge/-muhabgamalx2@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
