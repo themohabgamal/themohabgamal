@@ -24,7 +24,7 @@
 
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=monokai)
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=monokai
 " />
   <img height="180em" src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themohabgamal&theme=monokai)
 " />
