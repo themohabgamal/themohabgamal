@@ -22,14 +22,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=monokai
-" />
-  <img height="180em" src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themohabgamal&theme=monokai)
-" />
-</a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themohabgamal&theme=monokai)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
