@@ -1,29 +1,41 @@
-<h1 align="center">Hi 👋, I'm mohab</h1>
-<h3 align="center">A frontend developer from Egypt</h3>
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themohabgamal&label=Profile%20views&color=0e75b6&style=flat" alt="themohabgamal" /> </p>
+<h2>I'm Mohab.</h2>
 
-<p align="left"> <a href="https://twitter.com/mohabbgamall" target="blank"><img src="https://img.shields.io/twitter/follow/mohabbgamall?logo=twitter&style=for-the-badge" alt="mohabbgamall" /></a> </p>
+<h3> 💻 &nbsp;About Me </h3>
 
-- 🌱 I’m currently learning **Js**
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓 &nbsp; Undergrad computer sciences student at AOU EGYPT.
 
-- 👨‍💻 All of my projects are available at [https://github.com/themohabgamal](https://github.com/themohabgamal)
 
-- 💬 Ask me about **bootstrap**
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 📫 How to reach me **muhabgamalx2@gmail.com**
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- ⚡ Fun fact **I'm a graphic designer as well**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohabbgamall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohabbgamall" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/muhabgamalx2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhabgamalx2/" height="30" width="40" /></a>
-<a href="https://instagram.com/muhabgamalx2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhabgamalx2" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/mohabgamaldesign/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mohabgamaldesign/" height="30" width="40" /></a>
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=monokai)
+" />
+  <img height="180em" src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themohabgamal&theme=monokai)
+" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=solarized_dark
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themohabgamal&theme=solarized_dark)
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<!-- <a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/cameron-thompson96"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:muhabgamalx2@gamil.com"><img src="https://img.shields.io/badge/-muhabgamalx2@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
