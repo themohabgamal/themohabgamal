@@ -11,10 +11,10 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![Flutter]
-  ![Bloc]
-  ![Mvvm]
-  ![FireBase]
+  Flutter
+  Bloc
+  Mvvm
+  FireBase
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -23,7 +23,6 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themohabgamal&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themohabgamal&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=themohabgamal&theme=tokyonight&utcOffset=8)
 
 
