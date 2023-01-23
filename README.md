@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F70000&lines=I'm+Mohab+Gamal;a+self+taught+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F70000&lines=I'm+Mohab+Gamal;a+Flutter+developer)](https://git.io/typing-svg)
 
 <h3> 💻 &nbsp;About Me </h3>
 
@@ -11,10 +11,10 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Flutter]
+  ![Bloc]
+  ![Mvvm]
+  ![FireBase]
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
