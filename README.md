@@ -16,7 +16,6 @@
 
 - 💻 **Flutter Developer** with a passion for creating sleek, high-performance mobile apps.
 - 🚀 Currently diving deep into **CI/CD** and **Unit Testing**.
-- 🎯 Building **[Chefaay (Health App)](https://github.com/InnovateX2/curative_Flutter)** to improve healthcare experiences.
 - ✍️ Sharing insights & thoughts on **[LinkedIn](https://www.linkedin.com/in/themohabgamal/)**.
 - 💬 Ask me anything about **Flutter, Dart, Mobile Development**!
 
